@@ -21,7 +21,7 @@ Each project helps me practice working with the **Document Object Model (DOM)**.
 Here are the projects in this repo (click to open):
 
 - [Project 1: Quote Generator](https://github.com/NzrrS/freeCodeCamp-DOM-Projectes/tree/main/Qoute-Generator)  
-- [Project 2: Soon.. ]()  
+- [Project 2: Modal](https://github.com/NzrrS/freeCodeCamp-DOM-Projectes/tree/main/Modal)  
 - [Project 3: Soon.. ]()  
 - [Project 4: Soon.. ]()  
 
